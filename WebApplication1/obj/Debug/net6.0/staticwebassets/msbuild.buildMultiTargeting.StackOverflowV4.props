@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StackOverflowV4.props" />
+</Project>
